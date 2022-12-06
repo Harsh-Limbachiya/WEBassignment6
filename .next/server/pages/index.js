@@ -1,55 +1,100 @@
 "use strict";
-/*
- * ATTENTION: An "eval-source-map" devtool has been used.
- * This devtool is neither made for production nor for readable output files.
- * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
- * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
- * or disable the default devtool with "devtool: false".
- * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
- */
 (() => {
 var exports = {};
-exports.id = "pages/index";
-exports.ids = ["pages/index"];
+exports.id = 405;
+exports.ids = [405];
 exports.modules = {
 
-/***/ "./pages/index.js":
-/*!************************!*\
-  !*** ./pages/index.js ***!
-  \************************/
+/***/ 6211:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Home)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-bootstrap/Image */ \"react-bootstrap/Image\");\n/* harmony import */ var react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-bootstrap */ \"react-bootstrap\");\n/* harmony import */ var react_bootstrap__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__);\n/*********************************************************************************\n*  WEB422 – Assignment 6\n*  I declare that this assignment is my own work in accordance with Seneca Academic Policy.  \n*  No part of this assignment has been copied manually or electronically from any other source\n*  (including web sites) or distributed to other students.\n* \n*  Name: Harsh Limbachiya Student ID: 157295197 Date: 11/19/2022\n*\n********************************************************************************/ \n\n\nfunction Home() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((react_bootstrap_Image__WEBPACK_IMPORTED_MODULE_1___default()), {\n                src: \"https://upload.wikimedia.org/wikipedia/commons/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg\",\n                alt: \"Metropolitan Museum of Art\",\n                rounded: true,\n                fluid: true\n            }, void 0, false, {\n                fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                lineNumber: 17,\n                columnNumber: 6\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"br\", {}, void 0, false, {\n                fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                lineNumber: 18,\n                columnNumber: 6\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"br\", {}, void 0, false, {\n                fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                lineNumber: 19,\n                columnNumber: 6\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__.Row, {\n                children: [\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__.Col, {\n                        md: 6,\n                        children: [\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"p\", {\n                                children: \"The Metropolitan Museum of Art of New York City, colloquially \\\"the Met\\\", is the largest art museum in the Americas. Its permanent collection contains over two million works, divided among 17 curatorial departments. The main building at 1000 Fifth Avenue, along the Museum Mile on the eastern edge of Central Park on Manhattan's Upper East Side, is by area one of the world's largest art museums. A much smaller second location, The Cloisters at Fort Tryon Park in Upper Manhattan, contains an extensive collection of art, architecture, and artifacts from medieval Europe.\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                                lineNumber: 22,\n                                columnNumber: 7\n                            }, this),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"p\", {\n                                children: \"The Metropolitan Museum of Art was founded in 1870 with its mission to bring art and art education to the American people. The museum's permanent collection consists of works of art from classical antiquity and ancient Egypt, paintings, and sculptures from nearly all the European masters, and an extensive collection of American and modern art. The Met maintains extensive holdings of African, Asian, Oceanian, Byzantine, and Islamic art. The museum is home to encyclopedic collections of musical instruments, costumes, and accessories, as well as antique weapons and armor from around the world. Several notable interiors, ranging from 1st-century Rome through modern American design, are installed in its galleries.\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                                lineNumber: 27,\n                                columnNumber: 7\n                            }, this)\n                        ]\n                    }, void 0, true, {\n                        fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                        lineNumber: 21,\n                        columnNumber: 7\n                    }, this),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(react_bootstrap__WEBPACK_IMPORTED_MODULE_2__.Col, {\n                        md: 6,\n                        children: [\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"p\", {\n                                children: \"The Fifth Avenue building opened on March 30, 1880. In 2021, despite the COVID-19 pandemic in New York City, the museum attracted 1,958,000 visitors, ranking fourth on the list of most-visited art museums in the world.\"\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                                lineNumber: 35,\n                                columnNumber: 7\n                            }, this),\n                            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"p\", {\n                                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"a\", {\n                                    href: \"https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art\",\n                                    target: \"_blank\",\n                                    rel: \"noreferrer\",\n                                    children: \"Metropolitan Museum of Art\"\n                                }, void 0, false, {\n                                    fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                                    lineNumber: 37,\n                                    columnNumber: 10\n                                }, this)\n                            }, void 0, false, {\n                                fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                                lineNumber: 37,\n                                columnNumber: 7\n                            }, this)\n                        ]\n                    }, void 0, true, {\n                        fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                        lineNumber: 34,\n                        columnNumber: 7\n                    }, this)\n                ]\n            }, void 0, true, {\n                fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n                lineNumber: 20,\n                columnNumber: 6\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"C:\\\\Users\\\\AutoLogon\\\\Desktop\\\\Semester 4\\\\WEB555\\\\Assignment\\\\newAssignment5\\\\web422Assignment5-submissionmain\\\\pages\\\\index.js\",\n        lineNumber: 16,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9pbmRleC5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7O0FBQUE7Ozs7Ozs7OytFQVErRSxHQUUvRTtBQUF5QztBQUNFO0FBRTVCLFNBQVNHLE9BQU87SUFDN0IscUJBQ0UsOERBQUNDOzswQkFDQSw4REFBQ0osOERBQUtBO2dCQUFDSyxLQUFJO2dCQUEwSEMsS0FBSTtnQkFBNkJDLE9BQU87Z0JBQUNDLEtBQUs7Ozs7OzswQkFDbkwsOERBQUNDOzs7OzswQkFDRCw4REFBQ0E7Ozs7OzBCQUNELDhEQUFDUixnREFBR0E7O2tDQUNILDhEQUFDQyxnREFBR0E7d0JBQUNRLElBQUk7OzBDQUNULDhEQUFDQzswQ0FBRTs7Ozs7OzBDQUtILDhEQUFDQTswQ0FBRTs7Ozs7Ozs7Ozs7O2tDQU9ILDhEQUFDVCxnREFBR0E7d0JBQUNRLElBQUk7OzBDQUNULDhEQUFDQzswQ0FBRTs7Ozs7OzBDQUVILDhEQUFDQTswQ0FBRSw0RUFBQ0M7b0NBQUVDLE1BQUs7b0NBQTJEQyxRQUFPO29DQUFTQyxLQUFJOzhDQUFhOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUs3RyxDQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbXktYXBwLy4vcGFnZXMvaW5kZXguanM/YmVlNyJdLCJzb3VyY2VzQ29udGVudCI6WyIvKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqXG4qICBXRUI0MjIg4oCTIEFzc2lnbm1lbnQgNlxuKiAgSSBkZWNsYXJlIHRoYXQgdGhpcyBhc3NpZ25tZW50IGlzIG15IG93biB3b3JrIGluIGFjY29yZGFuY2Ugd2l0aCBTZW5lY2EgQWNhZGVtaWMgUG9saWN5LiAgXG4qICBObyBwYXJ0IG9mIHRoaXMgYXNzaWdubWVudCBoYXMgYmVlbiBjb3BpZWQgbWFudWFsbHkgb3IgZWxlY3Ryb25pY2FsbHkgZnJvbSBhbnkgb3RoZXIgc291cmNlXG4qICAoaW5jbHVkaW5nIHdlYiBzaXRlcykgb3IgZGlzdHJpYnV0ZWQgdG8gb3RoZXIgc3R1ZGVudHMuXG4qIFxuKiAgTmFtZTogSGFyc2ggTGltYmFjaGl5YSBTdHVkZW50IElEOiAxNTcyOTUxOTcgRGF0ZTogMTEvMTkvMjAyMlxuKlxuKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovIFxuXG5pbXBvcnQgSW1hZ2UgZnJvbSAncmVhY3QtYm9vdHN0cmFwL0ltYWdlJ1xuaW1wb3J0IHsgUm93LCBDb2wgfSBmcm9tICdyZWFjdC1ib290c3RyYXAnO1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBIb21lKCkge1xuICByZXR1cm4gKFxuICAgIDxkaXY+XG4gICAgIDxJbWFnZSBzcmM9J2h0dHBzOi8vdXBsb2FkLndpa2ltZWRpYS5vcmcvd2lraXBlZGlhL2NvbW1vbnMvMy8zMC9NZXRyb3BvbGl0YW5fTXVzZXVtX29mX0FydF8lMjhUaGVfTWV0JTI5Xy1fQ2VudHJhbF9QYXJrJTJDX05ZQy5qcGcnICBhbHQ9J01ldHJvcG9saXRhbiBNdXNldW0gb2YgQXJ0JyByb3VuZGVkIGZsdWlkLz5cbiAgICAgPGJyIC8+XG4gICAgIDxiciAvPlxuICAgICA8Um93PlxuICAgICAgPENvbCBtZD17Nn0+XG4gICAgICA8cD5UaGUgTWV0cm9wb2xpdGFuIE11c2V1bSBvZiBBcnQgb2YgTmV3IFlvcmsgQ2l0eSwgY29sbG9xdWlhbGx5ICZxdW90O3RoZSBNZXQmcXVvdDssIGlzIHRoZSBsYXJnZXN0IGFydCBtdXNldW0gaW4gdGhlIEFtZXJpY2FzLiBJdHMgXG4gICAgICBwZXJtYW5lbnQgY29sbGVjdGlvbiBjb250YWlucyBvdmVyIHR3byBtaWxsaW9uIHdvcmtzLCBkaXZpZGVkIGFtb25nIDE3IGN1cmF0b3JpYWwgZGVwYXJ0bWVudHMuIFRoZSBtYWluIGJ1aWxkaW5nIGF0IDEwMDAgRmlmdGggXG4gICAgICBBdmVudWUsIGFsb25nIHRoZSBNdXNldW0gTWlsZSBvbiB0aGUgZWFzdGVybiBlZGdlIG9mIENlbnRyYWwgUGFyayBvbiBNYW5oYXR0YW4mYXBvcztzIFVwcGVyIEVhc3QgU2lkZSwgaXMgYnkgYXJlYSBvbmUgb2YgdGhlIHdvcmxkJmFwb3M7cyBcbiAgICAgIGxhcmdlc3QgYXJ0IG11c2V1bXMuIEEgbXVjaCBzbWFsbGVyIHNlY29uZCBsb2NhdGlvbiwgVGhlIENsb2lzdGVycyBhdCBGb3J0IFRyeW9uIFBhcmsgaW4gVXBwZXIgTWFuaGF0dGFuLCBjb250YWlucyBhbiBleHRlbnNpdmUgXG4gICAgICBjb2xsZWN0aW9uIG9mIGFydCwgYXJjaGl0ZWN0dXJlLCBhbmQgYXJ0aWZhY3RzIGZyb20gbWVkaWV2YWwgRXVyb3BlLjwvcD5cbiAgICAgIDxwPlRoZSBNZXRyb3BvbGl0YW4gTXVzZXVtIG9mIEFydCB3YXMgZm91bmRlZCBpbiAxODcwIHdpdGggaXRzIG1pc3Npb24gdG8gYnJpbmcgYXJ0IGFuZCBhcnQgZWR1Y2F0aW9uIHRvIHRoZSBBbWVyaWNhbiBwZW9wbGUuIFRoZSBcbiAgICAgIG11c2V1bSZhcG9zO3MgcGVybWFuZW50IGNvbGxlY3Rpb24gY29uc2lzdHMgb2Ygd29ya3Mgb2YgYXJ0IGZyb20gY2xhc3NpY2FsIGFudGlxdWl0eSBhbmQgYW5jaWVudCBFZ3lwdCwgcGFpbnRpbmdzLCBhbmQgc2N1bHB0dXJlcyBcbiAgICAgIGZyb20gbmVhcmx5IGFsbCB0aGUgRXVyb3BlYW4gbWFzdGVycywgYW5kIGFuIGV4dGVuc2l2ZSBjb2xsZWN0aW9uIG9mIEFtZXJpY2FuIGFuZCBtb2Rlcm4gYXJ0LiBUaGUgTWV0IG1haW50YWlucyBleHRlbnNpdmUgXG4gICAgICBob2xkaW5ncyBvZiBBZnJpY2FuLCBBc2lhbiwgT2NlYW5pYW4sIEJ5emFudGluZSwgYW5kIElzbGFtaWMgYXJ0LiBUaGUgbXVzZXVtIGlzIGhvbWUgdG8gZW5jeWNsb3BlZGljIGNvbGxlY3Rpb25zIG9mIG11c2ljYWwgXG4gICAgICBpbnN0cnVtZW50cywgY29zdHVtZXMsIGFuZCBhY2Nlc3NvcmllcywgYXMgd2VsbCBhcyBhbnRpcXVlIHdlYXBvbnMgYW5kIGFybW9yIGZyb20gYXJvdW5kIHRoZSB3b3JsZC4gU2V2ZXJhbCBub3RhYmxlIGludGVyaW9ycywgXG4gICAgICByYW5naW5nIGZyb20gMXN0LWNlbnR1cnkgUm9tZSB0aHJvdWdoIG1vZGVybiBBbWVyaWNhbiBkZXNpZ24sIGFyZSBpbnN0YWxsZWQgaW4gaXRzIGdhbGxlcmllcy48L3A+XG4gICAgICA8L0NvbD5cbiAgICAgIDxDb2wgbWQ9ezZ9PlxuICAgICAgPHA+VGhlIEZpZnRoIEF2ZW51ZSBidWlsZGluZyBvcGVuZWQgb24gTWFyY2ggMzAsIDE4ODAuIEluIDIwMjEsIGRlc3BpdGUgdGhlIENPVklELTE5IHBhbmRlbWljIGluIE5ldyBZb3JrIENpdHksIHRoZSBtdXNldW0gXG4gICAgICBhdHRyYWN0ZWQgMSw5NTgsMDAwIHZpc2l0b3JzLCByYW5raW5nIGZvdXJ0aCBvbiB0aGUgbGlzdCBvZiBtb3N0LXZpc2l0ZWQgYXJ0IG11c2V1bXMgaW4gdGhlIHdvcmxkLjwvcD5cbiAgICAgIDxwPjxhIGhyZWY9XCJodHRwczovL2VuLndpa2lwZWRpYS5vcmcvd2lraS9NZXRyb3BvbGl0YW5fTXVzZXVtX29mX0FydFwiIHRhcmdldD1cIl9ibGFua1wiIHJlbD1cIm5vcmVmZXJyZXJcIj5NZXRyb3BvbGl0YW4gTXVzZXVtIG9mIEFydDwvYT48L3A+XG4gICAgICA8L0NvbD5cbiAgICAgIDwvUm93PlxuICAgIDwvZGl2PlxuICApXG59XG4iXSwibmFtZXMiOlsiSW1hZ2UiLCJSb3ciLCJDb2wiLCJIb21lIiwiZGl2Iiwic3JjIiwiYWx0Iiwicm91bmRlZCIsImZsdWlkIiwiYnIiLCJtZCIsInAiLCJhIiwiaHJlZiIsInRhcmdldCIsInJlbCJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./pages/index.js\n");
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  "default": () => (/* binding */ Home)
+});
+
+// EXTERNAL MODULE: external "react/jsx-runtime"
+var jsx_runtime_ = __webpack_require__(997);
+;// CONCATENATED MODULE: external "react-bootstrap/Image"
+const Image_namespaceObject = require("react-bootstrap/Image");
+var Image_default = /*#__PURE__*/__webpack_require__.n(Image_namespaceObject);
+// EXTERNAL MODULE: external "react-bootstrap"
+var external_react_bootstrap_ = __webpack_require__(358);
+;// CONCATENATED MODULE: ./pages/index.js
+/*********************************************************************************
+*  WEB422 – Assignment 6
+*  I declare that this assignment is my own work in accordance with Seneca Academic Policy.  
+*  No part of this assignment has been copied manually or electronically from any other source
+*  (including web sites) or distributed to other students.
+* 
+*  Name: Harsh Limbachiya Student ID: 157295197 Date: 11/19/2022
+*
+********************************************************************************/ 
+
+
+function Home() {
+    return /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+        children: [
+            /*#__PURE__*/ jsx_runtime_.jsx((Image_default()), {
+                src: "https://upload.wikimedia.org/wikipedia/commons/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg",
+                alt: "Metropolitan Museum of Art",
+                rounded: true,
+                fluid: true
+            }),
+            /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
+            /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)(external_react_bootstrap_.Row, {
+                children: [
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)(external_react_bootstrap_.Col, {
+                        md: 6,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "The Metropolitan Museum of Art of New York City, colloquially \"the Met\", is the largest art museum in the Americas. Its permanent collection contains over two million works, divided among 17 curatorial departments. The main building at 1000 Fifth Avenue, along the Museum Mile on the eastern edge of Central Park on Manhattan's Upper East Side, is by area one of the world's largest art museums. A much smaller second location, The Cloisters at Fort Tryon Park in Upper Manhattan, contains an extensive collection of art, architecture, and artifacts from medieval Europe."
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "The Metropolitan Museum of Art was founded in 1870 with its mission to bring art and art education to the American people. The museum's permanent collection consists of works of art from classical antiquity and ancient Egypt, paintings, and sculptures from nearly all the European masters, and an extensive collection of American and modern art. The Met maintains extensive holdings of African, Asian, Oceanian, Byzantine, and Islamic art. The museum is home to encyclopedic collections of musical instruments, costumes, and accessories, as well as antique weapons and armor from around the world. Several notable interiors, ranging from 1st-century Rome through modern American design, are installed in its galleries."
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)(external_react_bootstrap_.Col, {
+                        md: 6,
+                        children: [
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: "The Fifth Avenue building opened on March 30, 1880. In 2021, despite the COVID-19 pandemic in New York City, the museum attracted 1,958,000 visitors, ranking fourth on the list of most-visited art museums in the world."
+                            }),
+                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                    href: "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+                                    target: "_blank",
+                                    rel: "noreferrer",
+                                    children: "Metropolitan Museum of Art"
+                                })
+                            })
+                        ]
+                    })
+                ]
+            })
+        ]
+    });
+}
+
 
 /***/ }),
 
-/***/ "react-bootstrap":
-/*!**********************************!*\
-  !*** external "react-bootstrap" ***!
-  \**********************************/
+/***/ 358:
 /***/ ((module) => {
 
 module.exports = require("react-bootstrap");
 
 /***/ }),
 
-/***/ "react-bootstrap/Image":
-/*!****************************************!*\
-  !*** external "react-bootstrap/Image" ***!
-  \****************************************/
+/***/ 997:
 /***/ ((module) => {
 
-module.exports = require("react-bootstrap/Image");
-
-/***/ }),
-
-/***/ "react/jsx-dev-runtime":
-/*!****************************************!*\
-  !*** external "react/jsx-dev-runtime" ***!
-  \****************************************/
-/***/ ((module) => {
-
-module.exports = require("react/jsx-dev-runtime");
+module.exports = require("react/jsx-runtime");
 
 /***/ })
 
@@ -60,7 +105,7 @@ module.exports = require("react/jsx-dev-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__("./pages/index.js"));
+var __webpack_exports__ = (__webpack_exec__(6211));
 module.exports = __webpack_exports__;
 
 })();
